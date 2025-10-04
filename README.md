@@ -10,3 +10,7 @@
 - Sampling from Distributions, Bar Plots, Histograms, and Scatter Plots
 - Principal Component Analysis (PCA)
 - Clustering Techniques
+
+## Day 3 
+- Regression
+- Ridge Regression
