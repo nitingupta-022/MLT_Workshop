@@ -17,3 +17,4 @@
 
 ## Day 4 - Agenda
 - SVM (Support Vector Machine)
+- Mock Practice
